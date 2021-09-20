@@ -1,0 +1,20 @@
+package cn.itcast.day05.Demo03;
+
+public class Demo06ArrayMin {
+    public static void main(String[] args) {
+        int[] array = {10, 15, 61, 30, 700, 900, 6000};
+
+        int max = array[0];//搭建大小比较场景
+        for (int i = 0; i < array.length; i++) {
+            //如果当前元素，比min更小，则换人
+            if (array[i] < max) {
+                max = array[i];
+            }
+
+
+        }
+        System.out.println("最小值:" + max);
+    }
+
+
+}

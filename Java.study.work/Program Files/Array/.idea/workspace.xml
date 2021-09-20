@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87edff31-bb00-4c12-99af-cc5f74b468e3" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Array" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZNlZdMxMspVpwiNMtmCA9LHOwC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day01.demo.array/src/Day01" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program Files\Array\day01.demo.array\src\Day01" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Day01.Demo02" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Day01.Demo02" />
+      <recent name="Day01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo04Student">
+    <configuration name="Demo02Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01.Demo03.Demo02Method" />
+      <module name="day01.demo.array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day01.Demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo03Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01.Demo03.Demo03Person" />
+      <module name="day01.demo.array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day01.Demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04PhoneParam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01.Demo02.Demo04PhoneParam" />
+      <module name="day01.demo.array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day01.Demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo04Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01.Demo03.Demo04Student" />
+      <module name="day01.demo.array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day01.Demo03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demoo5PhoneReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day01.Demo02.Demoo5PhoneReturn" />
+      <module name="day01.demo.array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day01.Demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo04Student" />
+        <item itemvalue="Application.Demo03Person" />
+        <item itemvalue="Application.Demo02Method" />
+        <item itemvalue="Application.Demoo5PhoneReturn" />
+        <item itemvalue="Application.Demo04PhoneParam" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87edff31-bb00-4c12-99af-cc5f74b468e3" name="默认更改列表" comment="" />
+      <created>1584687488219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584687488219</updated>
+      <workItem from="1584687493011" duration="10718000" />
+      <workItem from="1584940821990" duration="3196000" />
+      <workItem from="1585036400389" duration="12532000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1328" y="392" width="321" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585039099221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1328" y="392" width="321" height="226" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1585039099221" />
+    <state x="1218" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584694277676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1218" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584694277676" />
+    <state x="552" y="181" key="#项目结构" timestamp="1584687566003">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1584687566003" />
+    <state x="1268" y="261" key="FileChooserDialogImpl" timestamp="1585053637340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1268" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585053637340" />
+    <state width="817" height="266" key="GridCell.Tab.0.bottom" timestamp="1585053640447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="817" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585053640447" />
+    <state width="817" height="266" key="GridCell.Tab.0.center" timestamp="1585053640447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="817" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585053640447" />
+    <state width="817" height="266" key="GridCell.Tab.0.left" timestamp="1585053640447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="817" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585053640447" />
+    <state width="817" height="266" key="GridCell.Tab.0.right" timestamp="1585053640447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="817" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585053640447" />
+    <state x="880" y="148" key="SettingsEditor" timestamp="1585053578757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585053578757" />
+    <state x="335" y="136" key="new project wizard" timestamp="1584687557479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="335" y="136" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584687557479" />
+    <state x="1191" y="126" key="refactoring.ChangeSignatureDialog" timestamp="1584700626258">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1191" y="126" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584700626258" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day01.demo.array/src/Day01/Demo01/Demo02Student.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
