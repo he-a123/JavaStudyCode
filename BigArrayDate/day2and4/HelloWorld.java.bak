@@ -1,0 +1,35 @@
+/**public class HelloWorld{
+	public static void main(String[]args){
+	
+	System.out.println("Hello,world");
+	}
+}*/
+/*public class HelloWorld
+{
+	public static void main (String[]args){
+		System.out.println("Hello.world");
+	}
+
+}*/
+/*public class HelloWorld{
+	public static void main(String[]args){
+	System.out.println("hello.world")	;
+	}
+}
+public class HelloWorld
+{
+	public static void main(String[]args){
+		System.out.println("hello.world");
+	}
+}*/
+public class HelloWorld
+{
+	public static void main(String[]args)
+	{
+	for(int i =1; i < 10; i ++){
+		for(int j = 1;j <= i; j ++);
+	}
+	System.out.println(i + "x" + j + "=" + i*j + "\t" );
+	
+	}
+}

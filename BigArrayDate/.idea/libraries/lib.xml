@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/BigArrayDate/day25_IO/lib/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/BigArrayDate/day25_IO/lib/commons-io-2.4-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
